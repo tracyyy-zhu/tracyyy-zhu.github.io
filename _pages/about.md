@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: ,
+permalink: /
 subtitle: MS student, <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/'>University of Chicago</a>
 
 profile:
