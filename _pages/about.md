@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: ,
+subtitle: MS student, <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/en'>University of Chicago</a>
 
 profile:
   align: right
