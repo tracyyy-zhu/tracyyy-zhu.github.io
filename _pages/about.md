@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I am Tracy Zhu, a second year MS student in Statistics at University of Chicago. My research interests include Generative models, Multimodal visino-language learning, and Self-supervised learning. 
+Hello! I am Tracy Zhu, a second year MS student in Statistics at University of Chicago. My research interests include Generative models, Multimodal vision-language learning, and Self-supervised learning. 
 
 I have been working with [Prof. Anand Bhattad](https://anandbhattad.github.io/) and [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) on image generation with diffusion models. I received my BA in Data Science and Mathematics from NYU, where I was fortunate to work with [Dr. Tim Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification at [NYU Center for Data Science](https://cds.nyu.edu/). 
 
