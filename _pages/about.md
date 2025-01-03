@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! I am Tracy Zhu, a second year MS student in Statistics at University of Chicago. My research interests include Generative models, Multimodal vision-language learning, and Self-supervised learning. 
 
-I have been working with [Prof. Anand Bhattad](https://anandbhattad.github.io/) and [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) on image generation with diffusion models. I received my BA in Data Science and Mathematics from NYU, where I was fortunate to work with [Dr. Tim Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification at [NYU Center for Data Science](https://cds.nyu.edu/). 
+I have been working on improving projective geometry in generated images with diffusion models supervised by [Prof. Anand Bhattad](https://anandbhattad.github.io/) and [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my BA in Data Science and Mathematics from NYU, where I was fortunate to work with [Dr. Tim Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification at [NYU Center for Data Science](https://cds.nyu.edu/). 
 
 I am applying for a PhD in ML/CS starting in 2025. Please feel free to reach out if our research interests align!
 
