@@ -28,7 +28,9 @@ Hello! I am Tracy Zhu, a second year MS student in Statistics at University of C
 
 I have been working on improving projective geometry in generated images with diffusion models supervised by [Prof. Anand Bhattad](https://anandbhattad.github.io/) and [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my BA in Data Science and Mathematics from NYU, where I was fortunate to work with [Dr. Tim Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification at [NYU Center for Data Science](https://cds.nyu.edu/). 
 
-I am applying for a PhD in ML/CS starting in 2025. Please feel free to reach out if our research interests align!
+I am applying for a PhD in ML/CS starting in fall 2025. Please feel free to reach out if our research interests align!
+
+**Contact:** yz5880 [at] uchicago [dot] edu
 
 <!-- I am Yilun Kuang, a second-year PhD student in Data Science at NYU CDS & NYU CILVR Lab advised by Andrew Gordon Wilson. My research interests includes Large Language Models, Diffusion Models, Self-Supervised Learning, Multimodal Vision-Language Learning, Probabilistic Generative Models, NeuroAI & AI for Science, Generalization Theory, and Numerical Methods.
 
