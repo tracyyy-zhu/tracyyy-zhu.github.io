@@ -24,16 +24,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I am Tracy Zhu. I'm currently a research assistant working with [Prof. Chen Wei](https://weichen582.github.io/) at [Rice University](https://csweb.rice.edu/) working on Studying Spatially Aware Visual Features in VLAs. My research interests lie broadly in generative models, multimodal learning, and representation learning. 
+Hello! I am Tracy Zhu. I'm currently a research assistant working with [Prof. Chen Wei](https://weichen582.github.io/) at [Rice University](https://csweb.rice.edu/), where I study spatially aware vision encoders in vision language action models. My research interests lie broadly in generative models, multimodal learning, and representation learning. 
 
-I recently graduated from M.S. in Statistics from [University of Chicago](https://stat.uchicago.edu/), where I was advised by [Prof. Anand Bhattad] while he was at [TTIC](https://www.ttic.edu/). I received my B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/), where I was fortunate to work with [Prof. Tim G.J. Rudner](https://timrudner.com/) at [University of Toronto](https://www.utoronto.ca/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) at [Michigan State University](https://msu.edu/) on uncertainty quantification. 
+I recently earned an M.S. in Statistics from [University of Chicago](https://stat.uchicago.edu/), where I worked with  [Prof. Anand Bhattad](https://anandbhattad.github.io/) during his time at [TTIC](https://www.ttic.edu/). I received my B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/), where I was fortunate to work with [Prof. Tim G.J. Rudner](https://timrudner.com/) at [University of Toronto](https://www.utoronto.ca/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) at [Michigan State University](https://msu.edu/) on uncertainty quantification for large language models. 
 
 I am applying for a PhD in CS/ML starting in Fall 2026. Please feel free to reach out if our research interests align!
 
 **Contact:** yz5880 [at] uchicago [dot] edu
 
-<!-- I am Yilun Kuang, a second-year PhD student in Data Science at NYU CDS & NYU CILVR Lab advised by Andrew Gordon Wilson. My research interests includes Large Language Models, Diffusion Models, Self-Supervised Learning, Multimodal Vision-Language Learning, Probabilistic Generative Models, NeuroAI & AI for Science, Generalization Theory, and Numerical Methods.
-
-Prior to starting PhD, I graduated magna cum laude with high honors from NYU with a BA in Mathematics. I was fortunate to work with SueYeon Chung and Eero Simoncelli on manifold geometry/efficient coding inspired self-supervised learning at the Center for Computational Neuroscience of Flatiron Institute, Simons Foundation.
-
-I am a PhD student at TTIC advised by Greg Shakhnarovich in the PALS Lab. I primarily work on 3D computer vision and generative modeling. Before coming to TTIC, I received my Master of Computer Science from Washington University in St. Louis, advised by Ayan Chakrabarti. I got my Bachelor of Mathematics from Sun Yat-sen University. I have interned at Adobe Resarch, Meta Reality Labs and Megvii. -->
