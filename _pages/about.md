@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: MS student, <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/'>University of Chicago</a>
+subtitle: M.S., <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/'>University of Chicago</a>
 
 profile:
   align: right
