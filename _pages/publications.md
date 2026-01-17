@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: \* denotes equal contributions
+description: 
 nav: true
 nav_order: 1
 ---
@@ -11,9 +11,11 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
+
+<strong>*</strong> denotes equal contributions
 
 {% bibliography %}
 
