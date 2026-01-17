@@ -24,11 +24,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I am Tracy Zhu, a second year MS student in Statistics at University of Chicago. My research interests include Generative models, Multimodal vision-language learning, and Self-supervised learning. 
+Hello! I am Tracy Zhu. I'm currently a research assistant working with [Prof. Chen Wei](https://weichen582.github.io/) at [Rice University](https://csweb.rice.edu/) working on Studying Spatially Aware Visual Features in VLAs. My research interests lie broadly in generative models, multimodal learning, and representation learning. 
 
-I have been working on improving projective geometry in generated images with diffusion models supervised by [Prof. Anand Bhattad](https://anandbhattad.github.io/) and [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my BA in Data Science and Mathematics from NYU, where I was fortunate to work with [Dr. Tim Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification at [NYU Center for Data Science](https://cds.nyu.edu/). 
+I recently graduated from M.S. in Statistics from [University of Chicago](https://stat.uchicago.edu/), where I was advised by [Prof. Anand Bhattad] while he was at [TTIC](https://www.ttic.edu/). I received my B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/), where I was fortunate to work with [Prof. Tim G.J. Rudner](https://timrudner.com/) at [University of Toronto](https://www.utoronto.ca/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) at [Michigan State University](https://msu.edu/) on uncertainty quantification. 
 
-I am applying for a PhD in ML/CS starting in fall 2025. Please feel free to reach out if our research interests align!
+I am applying for a PhD in CS/ML starting in Fall 2026. Please feel free to reach out if our research interests align!
 
 **Contact:** yz5880 [at] uchicago [dot] edu
 
