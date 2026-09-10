@@ -30,7 +30,7 @@ I recently earned an M.S. in Statistics from [University of Chicago](https://sta
 
 Hello! I am Tracy Zhu, a first year PhD student in Computer Science at Texas A&M University, advised by [Tomer Galanti](https://tomergalanti.github.io/index.html). My research interests lie broadly in generative models, multimodal learning, and representation learning.
 
-Before starting my PhD, I earned an M.S. in Statistics from the [University of Chicago](https://stat.uchicago.edu/) and a B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/). I also worked with [Prof. Tim G.J. Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification for large language models. My previous research with [Tim G.J. Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) focused on uncertainty quantification for large language models.
+Before starting my PhD, I earned an M.S. in Statistics from the [University of Chicago](https://stat.uchicago.edu/) and a B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/). My previous research with [Tim G.J. Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) focused on uncertainty quantification for large language models.
 
 
 **Contact:** tracyzhu [at] tamu [dot] edu
