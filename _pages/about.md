@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S., <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/'>University of Chicago</a>
+subtitle: PhD student in CSE, <a href='https://engineering.tamu.edu/cse/index.html'>Texas A&M University</a>
 
 profile:
   align: right
-  image: graduation_photo_copy.JPG
+  image: 2026_summer.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,11 +24,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I am Tracy Zhu. I'm currently a research assistant working with [Prof. Chen Wei](https://weichen582.github.io/) at [Rice University](https://csweb.rice.edu/), where I study spatially aware vision encoders in vision language action models. My research interests lie broadly in Generative Models, Multimodal Learning, and Representation Learning. 
+<!-- Hello! I am currently a research assistant working with [Prof. Chen Wei](https://weichen582.github.io/) at [Rice University](https://csweb.rice.edu/), where I study spatially aware vision encoders in vision language action models. My research interests lie broadly in Generative Models, Multimodal Learning, and Representation Learning. 
 
-I recently earned an M.S. in Statistics from [University of Chicago](https://stat.uchicago.edu/), where I worked with  [Prof. Anand Bhattad](https://anandbhattad.github.io/) during his time at [TTIC](https://www.ttic.edu/). I received my B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/), where I was fortunate to work with [Prof. Tim G.J. Rudner](https://timrudner.com/) at [University of Toronto](https://www.utoronto.ca/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) at [Michigan State University](https://msu.edu/) on uncertainty quantification for large language models. 
+I recently earned an M.S. in Statistics from [University of Chicago](https://stat.uchicago.edu/), where I worked with  [Prof. Anand Bhattad](https://anandbhattad.github.io/) during his time at [TTIC](https://www.ttic.edu/). I received my B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/), where I was fortunate to work with [Prof. Tim G.J. Rudner](https://timrudner.com/) at [University of Toronto](https://www.utoronto.ca/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) at [Michigan State University](https://msu.edu/) on uncertainty quantification for large language models.  -->
 
-I am applying for a PhD in CS/ML starting in Fall 2026. Please feel free to reach out if our research interests align!
+Hello! I am Tracy Zhu, a first year PhD student in Computer Science at Texas A&M University, advised by [Tomer Galanti](https://tomergalanti.github.io/index.html). My research interests lie broadly in generative models, multimodal learning, and representation learning.
 
-**Contact:** yz5880 [at] uchicago [dot] edu
+Before starting my PhD, I earned an M.S. in Statistics from the [University of Chicago](https://stat.uchicago.edu/) and a B.A. in Data Science and Mathematics from [NYU](https://cas.nyu.edu/). I also worked with [Prof. Tim G.J. Rudner](https://timrudner.com/) and [Prof. Marco Morucci](https://marcomorucci.com/bio/) on uncertainty quantification for large language models. My previous research with [Tim G.J. Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) focused on uncertainty quantification for large language models.
+
+
+**Contact:** tracyzhu [at] tamu [dot] edu
 
